@@ -1,0 +1,1 @@
+Day 2: Learned chmod (600,644,700,755,777), chown, fixed security-lab permissions
